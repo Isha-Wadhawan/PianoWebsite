@@ -1,0 +1,147 @@
+*{
+
+    margin: 0;
+    padding: 0;
+   
+}
+body{
+    background: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 2em;
+}
+.container{
+    background-color: #fff; 
+    height: auto;
+    overflow: hidden;
+   
+    
+}
+.mainhead{
+    background-color: rgb(40, 36, 36);
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+}
+.mainhead h1:hover{
+   
+    color: rgb(170, 191, 215);
+}
+.content ul {
+   
+    list-style: none;
+    padding-top: 10%;
+    padding-left: 10%;
+    line-height: 3em;
+}
+.content a{
+text-decoration: none;
+color: rgb(61, 60, 60);
+padding-right: 20px;
+}
+
+.content a:hover{
+color: black;
+}
+
+.content li{
+  
+    margin: 0px;
+    font-size: 30px;
+}
+.content{
+    background-color: rgb(175, 168, 168);
+    padding: 10px;
+    margin: 10px;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+.content:hover{
+    background-color:  rgb(217, 210, 210) ;
+}
+
+.sidebar{
+    float: left;
+    width: 30%;
+}
+.section{
+    float: right;
+    width: 70%;
+    text-align: center;
+    margin-top:40px ;
+    line-height: 3em;
+   
+}
+.section h1{
+    word-spacing: 5px;
+    color:rgb(61, 60, 60); 
+    font-size: 30px;
+}
+.section p{
+     size: 90px;
+     padding-bottom: 20px;
+     font-size: 23px;
+}
+.section img{
+    width:30%;
+    height: 30%;
+    border: 2px solid darkslategrey;
+    border-radius: 10px;
+}
+.foot
+{
+    background-color:  rgb(40, 36, 36);
+    color: #fff;
+    text-align: right;
+    clear: both;
+}
+#content2{
+    background-color: rgb(62, 61, 61);
+    padding: 10px;
+    margin: 10px;
+    overflow: hidden;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+#content2:hover{
+    background-color:  rgb(39, 34, 34);
+}
+.Heading{
+    color: #fff;
+    text-align: center;
+    padding: 20px ;
+    padding-bottom: 50px;
+}
+
+#Contact{
+    background-color: rgb(175, 168, 168);
+    padding: 10px;
+    margin: 10px;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+#Contact:hover{
+    background-color:  rgb(208, 204, 204) ;
+}
+#Contact h1{
+   
+    color:rgb(61, 60, 60);
+    text-align: center;
+    padding: 15px;
+}
+#Contact p{
+    font-size: 24px;
+    text-align: center;
+    padding: 20px;
+}
+#Contact a{
+    text-decoration: none;
+    color:rgb(61, 60, 60); ;
+}
+#Contact a:hover{
+    color: black;
+}
+#top{
+    text-align: right;
+    font-size: larger;
+    padding-right: 5px;
+}
